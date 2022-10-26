@@ -43,3 +43,6 @@ I started coding in 2014 while I attended trade school. I soon realized, that Ja
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/PragmaticBeaver"><img src="https://github-readme-stats.vercel.app/api?username=PragmaticBeaver&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PragmaticBeaver's GitHub stats" /></a>
+
+### Support me and my projects
+<a href="https://ko-fi.com/beaver"><img src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg" style="width:64px;height:64px"/></a>
