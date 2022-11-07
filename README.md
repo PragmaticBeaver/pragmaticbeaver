@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer & Dungeon Master
 -----------------------------------
 
-I started coding in 2014 while I attended trade school. I soon realized, that Java was not my most loved language and discovered C#, which soon became my go-to language. A few years later I was asked to oversee a web project (based on Angular version 2) which brought me into the web ecosystem. I was fascinated with the possibilities and wanted to learn more. And so my journey of web development began. Now, 8 years later, I'm a proud developer who loves both front- and backend but my focus is clearly the backend. I mostly work with Typescript, Node, and Vue but I keep coming back to good old C# in my free time while I try my hands on game development using Godot.
+I started coding in 2014 while I attended trade school. I soon realized, that Java was not my most loved language and discovered C#, which soon became my go-to language. A few years later I was asked to oversee a web project (based on Angular version 2) which brought me into the web ecosystem. I was fascinated with the possibilities and wanted to learn more. And so my journey of web development began. Now, 8 years later, I'm a proud developer who loves both front- and backend but my focus is clearly the backend. I mostly work with Typescript, Node, React and Vue but I keep coming back to good old C# in my free time while I try my hands on game development using Godot.
 
 * 🌍  I'm based in Bonn, Germany
 * 🖥️  See my portfolio at [Github](http://github.com/PragmaticBeaver)
