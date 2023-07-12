@@ -8,8 +8,9 @@ I started coding in 2014 while I attended trade school. I soon realized, that Ja
 
 * 🌍  I'm based in Bonn, Germany
 * 🖥️  See my portfolio at [Github](http://github.com/PragmaticBeaver)
+* 🔭  I'm currently working on several FoundryVTT modules
 * 🧠  I'm learning Game- and App Development
-* ⚡  I'm a Dungeon Master and D&D Junkey since round about 2013
+* ⚡   I'm a Dungeon Master and D&D Junkey since round about 2013
 
 ### Skills
 
