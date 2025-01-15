@@ -8,9 +8,10 @@ I started coding in 2014 while I attended trade school. I soon realized, that Ja
 
 * 🌍  I'm based in Bonn, Germany
 * 🖥️  See my portfolio at [Github](http://github.com/PragmaticBeaver)
-* 🔭  I'm currently working on several small Web-Apps
-* 🧠  I'm learning game development
-* ⚡   I'm a Dungeon Master and D&D Junkey since round about 2013
+* 🔭  I'm currently working on a sophisticated Discord bot and my personal "everything app"
+* 🧠  I'm developing my own games
+* 🤖  I'm creating a smart home for my family
+* ⚡  I'm a (forever) Dungeon Master and D&D zealot since round about 2013
 
 ### Skills
 
